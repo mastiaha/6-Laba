@@ -10,6 +10,9 @@ namespace _6_Laba
     {
         static void Main(string[] args)
         {
+            string s = @"Hello world";
+            Console.WriteLine(s.Length);
+            Console.ReadKey();
         
         }
 
