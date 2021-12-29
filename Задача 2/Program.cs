@@ -28,7 +28,6 @@ namespace Задача_2
                 break;
             }
             Console.WriteLine("Для выхода из программы нажмите любую клавишу");
-            
             Console.ReadKey();
         }
     }

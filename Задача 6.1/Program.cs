@@ -23,6 +23,7 @@ namespace Задача_6._1
                 }
             }
             Console.WriteLine("Самым длинным словом в предложении будет {0}", max);
+
             Console.ReadKey();
         }
     }
